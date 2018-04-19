@@ -15,6 +15,6 @@ Instructions :
 5. click on upload button 
 
 The fastest way to import a CSV file is to use Mysql LOAD DATA command.
-
+Cloned from:https://github.com/sanathp/largeCSV2mySQL
 
 
